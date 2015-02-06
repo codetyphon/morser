@@ -1,7 +1,7 @@
 {
   "name": "morser",
   "version": "0.0.1",
-  "description": "get pic from url",
+  "description": "encode morse and decode morse",
   "homepage": "https://github.com/codetyphon/morser",
   "repository": "https://github.com/codetyphon/morser.git",
   "author": {
