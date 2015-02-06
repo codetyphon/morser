@@ -1,6 +1,6 @@
 {
   "name": "morser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "encode morse and decode morse",
   "homepage": "https://github.com/codetyphon/morser",
   "repository": "https://github.com/codetyphon/morser.git",
